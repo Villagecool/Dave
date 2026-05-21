@@ -1,5 +1,7 @@
 # Dave
 ![logo](./assets/giticon.png)
+
+
 Dave is a school project that I originally created with MIT App Inventor and have fully filled out using pygame
     Both versions of the game were for a final project
 
