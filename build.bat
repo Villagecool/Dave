@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-data "assets;assets" --hidden-import scr.cutscene --hidden-import scr.eztimer --hidden-import scr.main --hidden-import scr.results --hidden-import scr.shop --hidden-import scr.sprites --hidden-import scr.staticProp --icon=assets/appicon.ico main.py
