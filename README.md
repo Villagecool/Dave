@@ -19,19 +19,19 @@ Dave has been recognized for being a fat man (despite being a stick figure) and 
 
 # Controls
 ## Main Game
-SPACE - Take a step
-SHIFT/UP - Jump
-Z - Use Bomb
-X - Use Teleporter
-C - Use 30 Second Enegry
+- **SPACE** - Take a step
+- **SHIFT/UP** - Jump
+- **Z** - Use Bomb
+- **X** - Use Teleporter
+- **C** - Use 30 Second Enegry
 
 ## Results Screen
-RIGHT/ENTER - Open Shop
-LEFT/ESC/BACKSPACE - Close Game
-SPACE - Run again
+- **RIGHT/ENTER** - Open Shop
+- **LEFT/ESC/BACKSPACE** - Close Game
+- **SPACE** - Run again
 
 ## Shop
-Up/Down - Scroll options
-Left/Right - Change the level of an upgrade (if applicable)
-SPACE - Buy upgrade
-ENTER - Run again
+- **UP/DOWN** - Scroll options
+- **LEFT/RIGHT** - Change the level of an upgrade (if applicable)
+- **SPACE** - Buy upgrade
+- **ENTER** - Run again
